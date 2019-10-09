@@ -1,1 +1,9 @@
-1. 
+1. 입력
+
+2. 출력
+  소수점 출력)
+    cout<<fixed; - 자릿수 고정(cout<<setf(ios::fixed);로 사용가능)
+    cout<<unsetf(ios::fixed); - 설정 해제
+    cout<<setf(ios::fixed); - 자릿수 고정
+    cout.precision(자릿수);
+  )
