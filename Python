@@ -8,3 +8,8 @@
    
 2. for
    for에 range 대신 리스트를 넣으면 리스트의 요소를 꺼내면서 반복합니다.
+   
+   list를 for문으로 출력 시)
+   for i in range(values):       for i in list:        |    for i in list:
+      print(list[i])                print(i)           |       print(list[i])
+       O                              O                            X                why?
