@@ -7,3 +7,6 @@
     cout<<setf(ios::fixed); - 자릿수 고정
     cout.precision(자릿수);
   )
+
+3. abs()
+  절댓값 함수. int 타입의 정수 절대값 함수의 오버로딩 <cstdlib>에 존재하고, float, double 타입의 실수 절대값 함수의 오버로딩은 <cmath>에 존재.
