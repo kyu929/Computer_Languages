@@ -28,5 +28,10 @@
 6. 배열
   2차원 배열 선언 시 1차원 배열과 다르게 각 행과 열을 1000이상으로(정확하지는 않지만) 할 시 메모리가 초과되는 듯하다.(visual studio에서)
   
-7. 정렬
-  sort함수 사용시 기본 오름차순 sort(시작부분, 끝부분) 내림차순 시 bool desc(int a, int b){ return a > b; } sort(시작부분, 끝부분, desc) 
+7. sort함수
+  sort함수 사용시 기본 오름차순 sort(시작부분, 끝부분) 내림차순 시 bool desc(int a, int b){ return a > b; } sort(시작부분, 끝부분, desc)
+  
+8. Vector
+  min_element 사용시 range 범위 참고
+  Finds the smallest element in the range [first, last).
+  
