@@ -35,3 +35,4 @@
   min_element 사용시 range 범위 참고
   Finds the smallest element in the range [first, last).
   
+9. memset
